@@ -43,3 +43,13 @@ This project is an interactive Microsoft Excel dashboard built to analyze Mirand
 - Business Reporting
 - Excel Automation
 - Data Visualization
+
+## 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
+## 👨‍💻 Author
+
+**Mohit Nigam**
+
+Operations Executive | MS Excel | Data Analysis | MIS Reporting
